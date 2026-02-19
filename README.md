@@ -19,7 +19,7 @@ Currently working on contributing to the open-source community through tools tha
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats Radar](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true)
+![GitHub Stats Radar](https://github-readme-stats.vercel.app/api?username=Jeremias-A-Queiroz&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true)
 
 ---
 
