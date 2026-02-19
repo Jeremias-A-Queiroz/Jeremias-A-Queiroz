@@ -23,6 +23,8 @@ Currently working on contributing to the open-source community through tools tha
 
 [![Top Langs](https://helio-github-stats.vercel.app/api/top-langs?username=Jeremias-A-Queiroz&layout=normal&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas)](https://nice-readme.vercel.app/top-langs)
 
+![Wakapi](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Jeremias.AQ/interval:all_time&label=All%20time&color=blue)
+
 [![Profile Views](https://komarev.com/ghpvc/?username=Jeremias-A-Queiroz&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
 
 ---
