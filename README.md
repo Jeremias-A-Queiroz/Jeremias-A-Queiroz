@@ -19,9 +19,11 @@ Currently working on contributing to the open-source community through tools tha
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats Radar](https://github-readme-stats.vercel.app/api?username=jeremias-a-queiroz&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true)
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=Jeremias-A-Queiroz&custom_title=GitHub+Stats&theme=transparent&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremias-a-queiroz&layout=compact&theme=dracula&hide_border=true)
+[![Top Langs](https://helio-github-stats.vercel.app/api/top-langs?username=Jeremias-A-Queiroz&layout=normal&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas)](https://nice-readme.vercel.app/top-langs)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Jeremias-A-Queiroz&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
 
 ---
 
