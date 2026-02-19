@@ -21,6 +21,8 @@ Currently working on contributing to the open-source community through tools tha
 ### 📊 GitHub Stats
 ![GitHub Stats Radar](https://github-readme-stats.vercel.app/api?username=Jeremias-A-Queiroz&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremias-A-Queiroz&layout=compact&theme=dracula&hide_border=true)
+
 ---
 
 ### 🚲 Outside the Terminal
