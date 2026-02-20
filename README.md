@@ -25,7 +25,7 @@ Currently working on contributing to the open-source community through tools tha
 
 [![Wakapi](https://helio-github-stats.vercel.app/api/wakatime?username=Jeremias.AQ&api_domain=wakapi.dev&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false)](https://nice-readme.vercel.app/wakatime)
 
-[![Wakapi](https://wakapi.dev/api/badge/Jeremias.AQ/Jeremias.AQ/interval:7_days?label=last%2030d)](https://nice-readme.vercel.app/wakatime)
+[![Wakapi](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Jeremias.AQ/interval:7_days&label=Last%207%20days&color=blue)](https://img.shields.io/)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Jeremias-A-Queiroz&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
 
